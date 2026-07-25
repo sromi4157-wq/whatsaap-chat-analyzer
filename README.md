@@ -76,6 +76,6 @@ alongside a person's main archetype rather than competing for the same slot.
 
 ## Repo contents
 
-- `GroupDNA_<YourName>_<RollNumber>.ipynb` — the notebook
+- `GroupDNA_Romi kumar singh_minor_project.ipynb` — the notebook
 - `hostel_bois.txt` — the provided dataset
 - `README.md` — this file
